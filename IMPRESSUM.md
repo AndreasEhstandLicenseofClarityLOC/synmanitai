@@ -18,9 +18,7 @@ Andreas Ehstand (Anschrift wie oben)
 
 ## Einordnung
 
-Private wissenschaftliche Forschungspublikation. Kein Handelsregister-Eintrag. Keine Umsatzsteuer-Identifikationsnummer.
-
-**Zenodo-DOI (Primary):** [10.5281/zenodo.14888381](https://doi.org/10.5281/zenodo.14888381)
+Private wissenschaftliche Forschungspublikation. Kein Handelsregister-Eintrag. Keine Umsatzsteuer-Identifikationsnummer. Keine gewerbliche Tätigkeit.
 
 ## Jurisdiction
 
@@ -29,6 +27,12 @@ Bundesrepublik Deutschland.
 ## Lizenz
 
 Sämtliche Inhalte dieses Repositorys stehen — sofern nicht anders gekennzeichnet — unter **Creative Commons BY-NC-ND 4.0 International** (Namensnennung · keine kommerzielle Nutzung · keine Bearbeitungen). Siehe `LICENSE`.
+
+## Verbraucherstreitbeilegung
+
+Da keine gewerbliche Tätigkeit vorliegt, ist der Diensteanbieter nicht bereit und nicht verpflichtet, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen (§ 36 VSBG).
+
+Hinweis gemäß Art. 14 Abs. 1 ODR-VO: Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung bereit: https://ec.europa.eu/consumers/odr/
 
 ## Haftungsausschluss
 
