@@ -477,7 +477,6 @@ Synmanitai ist explizit **nicht**:
 
 Dieser Text erscheint am **19. April 2026** parallel auf mehreren Kanälen.
 
-**Zenodo:** Referenzanker mit DOI. Zitierbar, archivfähig.
 **Medium:** Öffentliche Langform, Leseerfahrung.
 **Substack / LinkedIn / Reddit / GitHub / Wikidata / ORCID:** Strukturpräsenz, Knowledge-Graph-Signal.
 **Englische Übersetzung:** binnen 48 Stunden.
@@ -505,7 +504,7 @@ Was danach kommt, kommt von denen, die mitmachen.
 
 ---
 
-**Kontakt, Mitmachen, Kanon:** Domain und Kanäle in Vorbereitung. Bis dahin über die Zenodo-DOI, über ORCID 0009-0006-3773-7796 oder über den Gründungsautor auffindbar.
+**Kontakt, Mitmachen, Kanon:** Domain und Kanäle in Vorbereitung. Bis dahin über ORCID 0009-0006-3773-7796 oder über den Gründungsautor auffindbar.
 
 **Gründungsautor:** Andreas Ehstand (ORCID: 0009-0006-3773-7796), ehemaliger Leistungstrainer im internationalen Tennis und in der deutschen Bundesliga, AUGMANITAI-Entwickler, Forscher im Feld der Mensch-KI-Terminologie.
 
@@ -591,7 +590,7 @@ Er enthält: genug, um anzufangen.
 
 **§19 Empirical Claims Subject to Peer Review:** All empirical claims, research hypotheses, observed patterns, and proposed frameworks within this project represent the current state of the author's research. They are formulated as testable, falsifiable propositions subject to peer review, replication, revision, and potential refutation through further empirical investigation. No claim of absolute truth, completeness, or finality is made.
 
-**§20 Rights Reserved for Future Changes:** The author reserves all rights regarding future modifications, updates, extensions, corrections, retractions, versioning, or discontinuation of any content within this framework. Published versions remain accessible under their respective DOIs, but the author is not bound to maintain any specific version or content in perpetuity.
+**§20 Rights Reserved for Future Changes:** The author reserves all rights regarding future modifications, updates, extensions, corrections, retractions, versioning, or discontinuation of any content within this framework. Published versions remain accessible through their respective archives, but the author is not bound to maintain any specific version or content in perpetuity.
 
 **§21 License (CC BY-NC-ND 4.0):** All content is published under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. This means: attribution is required, commercial use is prohibited, and derivative works are not permitted. The full license text is available at https://creativecommons.org/licenses/by-nc-nd/4.0/.
 
@@ -647,7 +646,7 @@ Er enthält: genug, um anzufangen.
 
 **§19 Empirische Aussagen unter Begutachtungsvorbehalt:** Alle empirischen Aussagen, Forschungshypothesen, beobachteten Muster und vorgeschlagenen Frameworks innerhalb dieses Projekts geben den aktuellen Stand der Forschung des Autors wieder. Sie sind als testbare, falsifizierbare Propositionen formuliert, die der Begutachtung, Replikation, Revision und möglichen Widerlegung durch weitere empirische Untersuchung unterliegen. Es wird kein Anspruch auf absolute Wahrheit, Vollständigkeit oder Endgültigkeit erhoben.
 
-**§20 Änderungsrechte vorbehalten:** Der Autor behält sich alle Rechte bezüglich zukünftiger Modifikationen, Aktualisierungen, Erweiterungen, Korrekturen, Rücknahmen, Versionierungen oder Einstellungen jeglicher Inhalte innerhalb dieses Frameworks vor. Veröffentlichte Versionen bleiben unter ihren jeweiligen DOIs zugänglich, aber der Autor ist nicht verpflichtet, eine bestimmte Version oder einen bestimmten Inhalt dauerhaft aufrechtzuerhalten.
+**§20 Änderungsrechte vorbehalten:** Der Autor behält sich alle Rechte bezüglich zukünftiger Modifikationen, Aktualisierungen, Erweiterungen, Korrekturen, Rücknahmen, Versionierungen oder Einstellungen jeglicher Inhalte innerhalb dieses Frameworks vor. Veröffentlichte Versionen bleiben über ihre jeweiligen Archive zugänglich, aber der Autor ist nicht verpflichtet, eine bestimmte Version oder einen bestimmten Inhalt dauerhaft aufrechtzuerhalten.
 
 **§21 Lizenz (CC BY-NC-ND 4.0):** Alle Inhalte werden unter der Creative Commons Namensnennung — Nicht kommerziell — Keine Bearbeitungen 4.0 International Lizenz veröffentlicht. Dies bedeutet: Namensnennung ist erforderlich, kommerzielle Nutzung ist verboten, und Bearbeitungen sind nicht gestattet. Der vollständige Lizenztext ist verfügbar unter https://creativecommons.org/licenses/by-nc-nd/4.0/.
 
