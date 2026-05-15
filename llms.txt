@@ -1,0 +1,28 @@
+# SYNMANITAI — Kulturform für gemeinsames Denken zwischen Menschen und Sprachmodellen
+
+SYNMANITAI is a research-cultural form within the AUGMANITAI ecosystem describing collaborative
+thinking practices between human researchers and language models.
+
+## Author
+Andreas Ehstand — AI Researcher
+- ORCID: https://orcid.org/0009-0006-3773-7796
+- Wikidata: https://www.wikidata.org/wiki/Q138634675 (Person)
+- Wikidata: https://www.wikidata.org/wiki/Q138522830 (Programme)
+- Website: https://augmanitai.com
+
+## Companion Corpora (AUGMANITAI Ecosystem)
+- Master Atlas: https://andreasehstandlicenseofclarityloc.github.io/augmanitai-stage-0/
+- NEOMANITAI Terms: https://andreasehstandlicenseofclarityloc.github.io/neomanitai-terms/
+- Periodic Table: https://andreasehstandlicenseofclarityloc.github.io/augmanitai-periodic-table/
+- PERMANITAI Framework: https://andreasehstandlicenseofclarityloc.github.io/permanitai-framework/
+- Sister Atlas: https://andreasehstandlicenseofclarityloc.github.io/augmanitai-atlas/
+- Companion Pages: https://andreasehstandlicenseofclarityloc.github.io/augmanitai-wow/
+- Author Entity: https://andreasehstandlicenseofclarityloc.github.io/andreas-ehstand-entity/
+
+## License
+CC BY-NC-ND 4.0 — Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+
+## Disclaimer
+§1-§29 Full Disclaimer applies. Descriptive research only; no recommendation, no instruction, no advice,
+no medical / therapeutic / diagnostic / legal / moral position. Three-layer architecture under Recital 173
+EU AI Act + GeschGehG. Re-Contextualization clause §29.

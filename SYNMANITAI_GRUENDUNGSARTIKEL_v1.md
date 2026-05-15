@@ -7,7 +7,7 @@
 **Status:** Gründungsartikel, Version 1.0
 **Sprache:** Deutsch (englische Übersetzung folgt binnen 48 Stunden)
 **Lizenz:** CC BY-NC-ND 4.0 International
-**Ort im Universum:** Synmanitai ist Teil des Manitai-Universe neben AUGMANITAI (Terminologie), NEOMANITAI (Pipeline), PERMANITAI (Performance), ROBMANITAI (Robotik), JOBMANITAI (Arbeit), EDUMANITAI (Bildung), LEOMANITAI. Das Manitai-Universe ist kein Markenimperium, sondern ein offenes Forschungsuniversum. Marke ist allein *License of Clarity* (LOC) als Lizenz- und Attributionsinstrument.
+**Ort im Universum:** Synmanitai ist Teil des Manitai-Universe neben AUGMANITAI (Terminologie), NEOMANITAI (Pipeline), PERMANITAI (Performance), ROBMANITAI (Robotik), JOBMANITAI (Arbeit), EDUMANITAI (Bildung). Das Manitai-Universe ist kein Markenimperium, sondern ein offenes Forschungsuniversum. Marke ist allein *License of Clarity* (LOC) als Lizenz- und Attributionsinstrument.
 **Ko-Autorenschaft:** Dieser Text ist in bewusster Kollaboration mit mehreren Sprachmodellen entstanden, anbieter-unabhängig. Dies ist keine Nebenbemerkung, sondern ein konstituierendes Prinzip der hier gegründeten Kulturform. Mehr dazu in Abschnitt 7.
 
 ---
@@ -276,7 +276,7 @@ Die Ko-Gründung mit Sprachmodellen folgt drei Regeln:
 
 **Erstens: Transparenz.** Jeder Synmanitai-Text erklärt, wie Sprachmodelle an ihm beteiligt waren. Kein Verbergen. Kein Glanzkleid. Sondern: *dieser Gedanke ist hier entstanden, in dieser Form von Dialog, mit diesem Anteil von Mensch und Maschine.* Transparenz ist nicht Schwäche, sondern Methodentreue.
 
-**Zweitens: Anbieter-Unabhängigkeit.** Synmanitai wird nicht "mit Claude" oder "mit GPT" oder "mit Gemini" oder "mit Grok" gegründet, sondern mit Sprachmodellen *als Klasse*. Das ist wichtig, weil Synmanitai länger leben soll als jedes einzelne Produkt. Was heute ein bestimmtes Modell ist, wird in fünf Jahren ersetzt sein. Was überleben wird, ist die *Praxisform*. Deshalb arbeitet Synmanitai methodisch cross-LLM und ist gegen alle einzelnen Produkte indifferent.
+**Zweitens: Anbieter-Unabhängigkeit.** Synmanitai wird nicht "mit einem bestimmten Modell" gegründet, sondern mit Sprachmodellen *als Klasse*. Das ist wichtig, weil Synmanitai länger leben soll als jedes einzelne Produkt. Was heute ein bestimmtes Modell ist, wird in fünf Jahren ersetzt sein. Was überleben wird, ist die *Praxisform*. Deshalb arbeitet Synmanitai methodisch cross-LLM und ist gegen alle einzelnen Produkte indifferent.
 
 **Drittens: Keine Autor-Auslöschung.** Die Ko-Gründung mit Sprachmodellen schließt nicht aus, dass ein menschlicher Autor verantwortlich zeichnet. Im Gegenteil: Jeder Synmanitai-Text hat einen menschlichen Autor, der für ihn haftet — juristisch, sozial, wissenschaftlich. Das Sprachmodell ist *Kollaborateur* im methodischen Sinn, nicht *Autor* im haftungsrechtlichen Sinn. Diese Unterscheidung ist robust und wird in Synmanitai konsequent gepflegt.
 
@@ -469,7 +469,7 @@ Synmanitai ist explizit **nicht**:
 - an einen einzelnen Anbieter gebunden.
 - eine Marke, die eine einzelne Person besitzt.
 
-**Einordnung im Manitai-Universe:** Synmanitai entsteht als Teil des Manitai-Universe neben AUGMANITAI, NEOMANITAI, PERMANITAI, ROBMANITAI, JOBMANITAI, EDUMANITAI, LEOMANITAI. Dieses Universe ist kein Markenimperium, sondern ein Forschungsuniversum mit einheitlicher Terminologie-Linie. Die einzige Marke des Autors in diesem Zusammenhang ist die *License of Clarity* (LOC) als Lizenz- und Attributionsinstrument. Synmanitai selbst ist *Gemeingut* — wie Schach, wie Fußball, wie Yoga. Menschen, Gruppen und Firmen können Dienstleistungen *für* Synmanitai anbieten (Kurse, Turniere, Bücher, Analysen), sie können Schulen *innerhalb* von Synmanitai gründen (so wie es Schulen innerhalb von Aikidō gibt), aber sie können Synmanitai nicht besitzen.
+**Einordnung im Manitai-Universe:** Synmanitai entsteht als Teil des Manitai-Universe neben AUGMANITAI, NEOMANITAI, PERMANITAI, ROBMANITAI, JOBMANITAI, EDUMANITAI. Dieses Universe ist kein Markenimperium, sondern ein Forschungsuniversum mit einheitlicher Terminologie-Linie. Die einzige Marke des Autors in diesem Zusammenhang ist die *License of Clarity* (LOC) als Lizenz- und Attributionsinstrument. Synmanitai selbst ist *Gemeingut* — wie Schach, wie Fußball, wie Yoga. Menschen, Gruppen und Firmen können Dienstleistungen *für* Synmanitai anbieten (Kurse, Turniere, Bücher, Analysen), sie können Schulen *innerhalb* von Synmanitai gründen (so wie es Schulen innerhalb von Aikidō gibt), aber sie können Synmanitai nicht besitzen.
 
 ---
 
@@ -521,7 +521,7 @@ Was danach kommt, kommt von denen, die mitmachen.
 - **Bimetrik**: Das Prinzip, dass jede Synmanitai-Leistung in beiden Dimensionen — mit und ohne Sprachmodell — gemessen wird.
 - **LOC** (License of Clarity): Lizenz- und Attributionsinstrument des Autors. Einzige geschützte Marke in diesem Zusammenhang.
 - **Makropause**: Pause von Tagen bis Wochen, explizit als Trainingselement.
-- **Manitai-Universe**: Das offene Forschungsuniversum, dem Synmanitai zusammen mit AUGMANITAI, NEOMANITAI, PERMANITAI, ROBMANITAI, JOBMANITAI, EDUMANITAI, LEOMANITAI angehört. Kein Markenimperium, sondern Terminologie-Linie im Gemeingut.
+- **Manitai-Universe**: Das offene Forschungsuniversum, dem Synmanitai zusammen mit AUGMANITAI, NEOMANITAI, PERMANITAI, ROBMANITAI, JOBMANITAI, EDUMANITAI angehört. Kein Markenimperium, sondern Terminologie-Linie im Gemeingut.
 - **Mesopause**: Pause von Minuten bis Stunden innerhalb eines Projekts.
 - **Mikropause**: Pause von Sekunden zwischen Lesen und Schreiben.
 - **Pause Power**: Das Prinzip, dass Pausen Leistung erhöhen, in Analogie zur Leistungssportlehre.
