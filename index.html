@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
+<title>SYNMANITAI - Culture form for thinking with language models</title>
+<meta name="description" content="Synmanitai is the open culture form for thinking together with language models. A thinking sport, a way, and a research practice - bilingual, provider-independent, in the commons. Founding article by Andreas Ehstand.">
+<link rel="canonical" href="https://andreasehstandlicenseofclarityloc.github.io/synmanitai/">
+<meta name="author" content="Andreas Ehstand">
+<link rel="author" href="https://orcid.org/0009-0006-3773-7796">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="SYNMANITAI">
+<meta property="og:title" content="SYNMANITAI - Culture form for thinking with language models">
+<meta property="og:description" content="Sport, way, research practice. Bimetric. Semantic Ejection. Pause Power. Co-founded with language models, provider-independent, in the commons.">
+<meta property="og:url" content="https://andreasehstandlicenseofclarityloc.github.io/synmanitai/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="SYNMANITAI">
+<meta name="twitter:description" content="Culture form for thinking together with language models. By Andreas Ehstand.">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://andreasehstandlicenseofclarityloc.github.io/synmanitai/#work",
+  "name": "SYNMANITAI - Founding Article",
+  "alternateName": "Synmanitai",
+  "description": "Open culture form for thinking together with humans and language models. Simultaneously a thinking sport, a way, and a research practice. Provider-independent, co-founded with language models, in the commons.",
+  "url": "https://andreasehstandlicenseofclarityloc.github.io/synmanitai/",
+  "inLanguage": ["de", "en"],
+  "datePublished": "2026-04-19",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "isPartOf": {
+    "@type": "ResearchProject",
+    "name": "AUGMANITAI Research Programme",
+    "url": "https://andreasehstandlicenseofclarityloc.github.io/augmanitai-portal/",
+    "identifier": "https://www.wikidata.org/wiki/Q138522830"
+  },
+  "author": {
+    "@type": "Person",
+    "@id": "https://orcid.org/0009-0006-3773-7796",
+    "name": "Andreas Ehstand",
+    "jobTitle": "AI Researcher",
+    "sameAs": [
+      "https://orcid.org/0009-0006-3773-7796",
+      "https://www.wikidata.org/wiki/Q138634675"
+    ]
+  },
+  "keywords": "human-AI co-thinking, thinking sport, language models, bimetric, symphronesis, autophronesis, semantic ejection, pause power, manitai universe, commons"
+}
+</script>
+<style>
+:root {
+  --bg: #050510; --bg-2: #08081a; --surface: #10101f; --surface-2: #15152a;
+  --border: #1d1d38; --border-2: #292950;
+  --text: #f2f2fa; --text-dim: #a8a8c8; --text-soft: #74749a;
+  --cyan: #2ee0ff; --violet: #8a5dff; --pink: #ff5fa0; --gold: #ffcc6a; --green: #54ec96;
+  --grad-1: linear-gradient(135deg, #2ee0ff 0%, #8a5dff 60%, #ff5fa0 100%);
+  --grad-2: linear-gradient(135deg, #54ec96 0%, #2ee0ff 100%);
+  --grad-3: linear-gradient(135deg, #ffcc6a 0%, #ff5fa0 100%);
+  --glow-c: 0 0 50px rgba(46,224,255,0.25);
+  --r-card: 16px; --r-pill: 999px;
+  --t-fast: 200ms cubic-bezier(0.16, 1, 0.3, 1);
+  --t-med: 400ms cubic-bezier(0.16, 1, 0.3, 1);
+  --font-sys: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", sans-serif;
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+body { background: var(--bg); color: var(--text); font-family: var(--font-sys); font-size: 16px; line-height: 1.6; font-feature-settings: "kern","liga","calt","ss01"; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; overflow-x: hidden; min-height: 100vh; }
+.cosmos { position: fixed; inset: 0; z-index: -2; background: radial-gradient(ellipse 700px 900px at 12% 8%, rgba(46,224,255,0.14), transparent 50%), radial-gradient(ellipse 800px 1000px at 88% 92%, rgba(138,93,255,0.12), transparent 50%), radial-gradient(ellipse 500px 700px at 55% 45%, rgba(84,236,150,0.06), transparent 50%); pointer-events: none; }
+.cosmos::before { content: ""; position: absolute; inset: 0; background-image: radial-gradient(circle at 18% 28%, rgba(255,255,255,0.4) 0.6px, transparent 1.4px), radial-gradient(circle at 62% 68%, rgba(255,255,255,0.3) 0.6px, transparent 1.4px), radial-gradient(circle at 82% 18%, rgba(255,255,255,0.25) 0.6px, transparent 1.4px), radial-gradient(circle at 38% 78%, rgba(255,255,255,0.2) 0.6px, transparent 1.4px), radial-gradient(circle at 8% 58%, rgba(255,255,255,0.3) 0.6px, transparent 1.4px), radial-gradient(circle at 92% 48%, rgba(255,255,255,0.18) 0.6px, transparent 1.4px); background-size: 600px 600px, 800px 800px, 700px 700px, 900px 900px, 550px 550px, 750px 750px; opacity: 0.55; animation: drift 160s linear infinite; }
+@keyframes drift { from { transform: translate(0,0); } to { transform: translate(-180px, -120px); } }
+.spotlight { position: fixed; inset: 0; z-index: -1; pointer-events: none; background: radial-gradient(circle 420px at var(--mx, 50%) var(--my, 50%), rgba(138,93,255,0.07), transparent 70%); transition: background 80ms; }
+.skip-link { position: absolute; left: -999px; top: 0; background: var(--cyan); color: var(--bg); padding: 10px 14px; border-radius: 6px; font-weight: 600; font-size: 14px; z-index: 9999; }
+.skip-link:focus { left: 8px; top: 8px; }
+.container { max-width: 1180px; margin: 0 auto; padding: 0 24px; }
+nav.top { position: fixed; top: 0; left: 0; right: 0; z-index: 100; padding: 14px 0; background: rgba(5,5,16,0.7); backdrop-filter: saturate(180%) blur(24px); -webkit-backdrop-filter: saturate(180%) blur(24px); border-bottom: 1px solid rgba(29,29,56,0.6); }
+nav.top .inner { max-width: 1180px; margin: 0 auto; padding: 0 24px; display: flex; align-items: center; gap: 24px; }
+.logo { display: inline-flex; align-items: center; gap: 10px; text-decoration: none; color: var(--text); font-weight: 800; font-size: 1.05em; letter-spacing: -0.01em; }
+.logo-mark { width: 30px; height: 30px; background: var(--grad-1); border-radius: 8px; position: relative; box-shadow: var(--glow-c); }
+.logo-mark::before { content: ""; position: absolute; inset: 4px; background: var(--bg); border-radius: 5px; }
+.logo-mark::after { content: ""; position: absolute; inset: 8px; background: var(--grad-1); border-radius: 3px; }
+.logo .logo-text { background: var(--grad-1); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; letter-spacing: 0.02em; }
+nav.top .links { display: flex; gap: 4px; flex: 1; justify-content: flex-end; flex-wrap: wrap; }
+nav.top a.link { color: var(--text-dim); text-decoration: none; padding: 8px 14px; border-radius: 8px; font-size: 0.92em; font-weight: 500; transition: all var(--t-fast); }
+nav.top a.link:hover { color: var(--text); background: var(--surface); }
+.hero { min-height: 90vh; display: flex; flex-direction: column; justify-content: center; padding: 130px 24px 70px 24px; }
+.hero .badge { display: inline-flex; align-items: center; gap: 8px; padding: 6px 14px; border-radius: var(--r-pill); background: rgba(46,224,255,0.06); border: 1px solid rgba(46,224,255,0.2); font-size: 0.78em; letter-spacing: 0.15em; text-transform: uppercase; color: var(--cyan); font-weight: 600; margin-bottom: 28px; width: max-content; max-width: 100%; }
+.hero .badge .pulse { width: 6px; height: 6px; border-radius: 50%; background: var(--cyan); position: relative; }
+.hero .badge .pulse::after { content: ""; position: absolute; inset: -4px; border-radius: 50%; border: 2px solid var(--cyan); animation: pulse 2.5s ease-out infinite; }
+@keyframes pulse { 0%{opacity:1;transform:scale(1)} 100%{opacity:0;transform:scale(2.5)} }
+.hero h1 { font-size: clamp(2.6em, 6.5vw, 5.4em); line-height: 0.96; letter-spacing: -0.035em; font-weight: 800; max-width: 18ch; margin-bottom: 28px; }
+.hero h1 .accent { background: var(--grad-1); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; display: inline-block; }
+.hero p.lead { font-size: clamp(1.1em, 1.6vw, 1.32em); line-height: 1.55; max-width: 760px; color: var(--text-dim); margin-bottom: 18px; }
+.hero p.lead strong { color: var(--text); font-weight: 600; }
+.hero .lead-de { font-size: 0.98em; color: var(--text-soft); max-width: 720px; border-left: 2px solid var(--border-2); padding-left: 16px; margin-bottom: 36px; }
+.hero .ctas { display: flex; gap: 12px; flex-wrap: wrap; }
+.btn { display: inline-flex; align-items: center; gap: 8px; padding: 14px 22px; border-radius: 10px; font-size: 0.98em; font-weight: 600; text-decoration: none; border: 1px solid transparent; cursor: pointer; font-family: var(--font-sys); transition: all var(--t-fast); position: relative; overflow: hidden; }
+.btn.primary { background: var(--grad-1); color: #050510; font-weight: 700; }
+.btn.primary::before { content: ""; position: absolute; inset: 0; background: linear-gradient(135deg, #fff 0%, transparent 50%); opacity: 0; transition: opacity var(--t-fast); }
+.btn.primary:hover::before { opacity: 0.18; }
+.btn.primary:hover { transform: translateY(-2px); box-shadow: var(--glow-c); }
+.btn.ghost { color: var(--text); background: rgba(255,255,255,0.04); border-color: var(--border-2); backdrop-filter: blur(8px); }
+.btn.ghost:hover { background: var(--surface); border-color: var(--cyan); color: var(--cyan); }
+.btn svg { width: 16px; height: 16px; }
+section { padding: 80px 24px; scroll-margin-top: 80px; position: relative; }
+section .container { padding: 0; }
+.eyebrow { display: inline-block; font-size: 0.78em; letter-spacing: 0.15em; text-transform: uppercase; color: var(--cyan); font-weight: 600; margin-bottom: 14px; }
+section h2 { font-size: clamp(1.8em, 4vw, 2.6em); line-height: 1.05; letter-spacing: -0.025em; font-weight: 800; margin-bottom: 16px; max-width: 22ch; }
+section h2 .accent { background: var(--grad-1); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+section p.intro { font-size: 1.08em; line-height: 1.6; color: var(--text-dim); max-width: 760px; margin-bottom: 40px; }
+.what-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+@media (max-width: 900px) { .what-grid { grid-template-columns: 1fr; } }
+.what-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--r-card); padding: 30px; position: relative; overflow: hidden; }
+.what-card::before { content: ""; position: absolute; top: 0; left: 0; right: 0; height: 1px; background: var(--grad-1); }
+.what-card .lang { font-size: 0.72em; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-soft); margin-bottom: 10px; }
+.what-card h3 { font-size: 1.3em; font-weight: 700; margin-bottom: 14px; letter-spacing: -0.015em; }
+.what-card h3 .em { color: var(--cyan); }
+.what-card p { color: var(--text-dim); margin-bottom: 12px; font-size: 1em; }
+.what-card p:last-child { margin-bottom: 0; }
+.what-card strong { color: var(--text); }
+.stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-top: 50px; }
+@media (max-width: 760px) { .stats { grid-template-columns: repeat(2, 1fr); } }
+.stat { background: var(--surface); border: 1px solid var(--border); border-radius: var(--r-card); padding: 22px; text-align: center; }
+.stat .num { font-size: 2.2em; font-weight: 800; letter-spacing: -0.03em; background: var(--grad-1); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; line-height: 1; margin-bottom: 8px; }
+.stat .lbl { font-size: 0.82em; color: var(--text-dim); letter-spacing: 0.05em; }
+.highlights { display: grid; grid-template-columns: repeat(12, 1fr); gap: 16px; }
+.h-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--r-card); padding: 28px; position: relative; overflow: hidden; transition: all var(--t-med); }
+.h-card::after { content: ""; position: absolute; top: 0; left: 0; right: 0; height: 1px; background: var(--grad-1); opacity: 0; transition: opacity var(--t-med); }
+.h-card:hover { transform: translateY(-4px); border-color: var(--border-2); box-shadow: 0 12px 40px rgba(0,0,0,0.4); }
+.h-card:hover::after { opacity: 1; }
+.h-card.feat { grid-column: span 12; padding: 36px; }
+.h-card.half { grid-column: span 6; }
+.h-card.third { grid-column: span 4; }
+@media (max-width: 900px) { .h-card.feat, .h-card.half, .h-card.third { grid-column: span 12; } }
+.h-icon { width: 46px; height: 46px; display: inline-flex; align-items: center; justify-content: center; background: rgba(46,224,255,0.08); border: 1px solid rgba(46,224,255,0.18); border-radius: 10px; margin-bottom: 18px; color: var(--cyan); }
+.h-icon svg { width: 22px; height: 22px; }
+.h-card.feat .h-icon { width: 58px; height: 58px; }
+.h-card.feat .h-icon svg { width: 28px; height: 28px; }
+.h-card h3 { font-size: 1.2em; font-weight: 700; letter-spacing: -0.02em; margin-bottom: 6px; }
+.h-card.feat h3 { font-size: 1.7em; margin-bottom: 10px; }
+.h-card .greek { display: inline-block; padding: 3px 10px; background: var(--bg-2); border: 1px solid var(--border); border-radius: var(--r-pill); font-size: 0.78em; color: var(--text-soft); margin-bottom: 14px; font-style: italic; }
+.h-card p { font-size: 0.96em; color: var(--text-dim); line-height: 1.6; }
+.h-card.feat p { font-size: 1.03em; max-width: 64ch; }
+.h-card p + p { margin-top: 10px; }
+.triptych { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+@media (max-width: 900px) { .triptych { grid-template-columns: 1fr; } }
+.mode { background: var(--surface); border: 1px solid var(--border); border-radius: var(--r-card); padding: 26px; border-top: 3px solid var(--cyan); transition: all var(--t-fast); }
+.mode:nth-child(2) { border-top-color: var(--violet); }
+.mode:nth-child(3) { border-top-color: var(--gold); }
+.mode:hover { transform: translateY(-3px); background: var(--surface-2); }
+.mode .mode-eyebrow { font-size: 0.72em; letter-spacing: 0.15em; text-transform: uppercase; color: var(--text-soft); margin-bottom: 8px; }
+.mode h4 { font-size: 1.4em; font-weight: 800; letter-spacing: -0.02em; margin-bottom: 12px; }
+.mode p { font-size: 0.95em; color: var(--text-dim); line-height: 1.55; }
+.disciplines { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
+@media (max-width: 700px) { .disciplines { grid-template-columns: 1fr; } }
+.disc { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 18px 22px; display: flex; gap: 16px; align-items: flex-start; transition: all var(--t-fast); }
+.disc:hover { border-color: var(--border-2); background: var(--surface-2); }
+.disc .num { flex-shrink: 0; width: 32px; height: 32px; display: flex; align-items: center; justify-content: center; background: var(--bg-2); border: 1px solid var(--border-2); border-radius: 8px; color: var(--cyan); font-weight: 700; font-size: 0.85em; }
+.disc .body h5 { font-size: 1.02em; font-weight: 700; margin-bottom: 4px; }
+.disc .body p { font-size: 0.88em; color: var(--text-dim); line-height: 1.5; }
+.sisters { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px; }
+.sister { background: var(--surface); border: 1px solid var(--border); border-radius: var(--r-card); padding: 22px; text-decoration: none; color: inherit; display: block; transition: all var(--t-fast); border-left: 3px solid var(--cyan); }
+.sister:nth-child(2) { border-left-color: var(--violet); }
+.sister:nth-child(3) { border-left-color: var(--green); }
+.sister:nth-child(4) { border-left-color: var(--gold); }
+.sister:nth-child(5) { border-left-color: var(--pink); }
+.sister:nth-child(6) { border-left-color: var(--cyan); }
+.sister:nth-child(7) { border-left-color: var(--violet); }
+.sister:hover { transform: translateX(4px); border-color: var(--border-2); background: var(--surface-2); }
+.sister h4 { font-size: 1.04em; font-weight: 700; letter-spacing: -0.01em; margin-bottom: 4px; }
+.sister .sister-sub { font-size: 0.78em; color: var(--text-soft); margin-bottom: 10px; }
+.sister p { font-size: 0.9em; color: var(--text-dim); line-height: 1.5; }
+.sister .arrow { display: inline-block; margin-top: 10px; color: var(--cyan); font-size: 0.85em; font-weight: 600; }
+.sister .arrow::after { content: " ->"; transition: margin var(--t-fast); }
+.sister:hover .arrow::after { margin-left: 4px; }
+.sister.self { border-left-color: var(--gold); opacity: 0.7; pointer-events: none; background: var(--bg-2); }
+.progression { background: var(--surface); border: 1px solid var(--border); border-radius: var(--r-card); padding: 36px; margin-top: 16px; }
+.prog-bar { display: flex; align-items: stretch; gap: 0; height: 56px; border-radius: 12px; overflow: hidden; border: 1px solid var(--border-2); margin: 22px 0; }
+.prog-seg { flex: 1; display: flex; align-items: center; justify-content: center; font-size: 0.8em; font-weight: 600; color: var(--text); border-right: 1px solid rgba(0,0,0,0.3); position: relative; }
+.prog-seg:last-child { border-right: none; }
+.prog-seg.kyu { background: linear-gradient(180deg, rgba(46,224,255,0.18), rgba(46,224,255,0.05)); color: var(--cyan); flex: 5; }
+.prog-seg.dan { background: linear-gradient(180deg, rgba(255,204,106,0.18), rgba(255,95,160,0.08)); color: var(--gold); flex: 4; }
+.prog-meta { display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; font-size: 0.88em; color: var(--text-dim); }
+.prog-meta div { flex: 1; min-width: 200px; }
+.prog-meta strong { color: var(--text); display: block; margin-bottom: 4px; }
+.author-block { display: grid; grid-template-columns: 1fr 1.7fr; gap: 36px; align-items: start; }
+@media (max-width: 900px) { .author-block { grid-template-columns: 1fr; } }
+.author-portrait { background: var(--surface); border: 1px solid var(--border); border-radius: var(--r-card); padding: 28px; text-align: center; position: sticky; top: 100px; }
+.author-portrait .avatar { width: 84px; height: 84px; margin: 0 auto 16px; border-radius: 50%; background: var(--grad-1); padding: 3px; }
+.author-portrait .avatar-inner { width: 100%; height: 100%; border-radius: 50%; background: var(--bg); color: var(--cyan); display: flex; align-items: center; justify-content: center; font-size: 1.9em; font-weight: 800; letter-spacing: -0.05em; }
+.author-portrait h3 { font-size: 1.18em; font-weight: 700; margin-bottom: 4px; }
+.author-portrait .role { font-size: 0.9em; color: var(--text-soft); }
+.author-content h3 { font-size: 1.12em; font-weight: 700; margin-bottom: 12px; color: var(--gold); letter-spacing: -0.01em; }
+.author-content h3:not(:first-child) { margin-top: 26px; }
+.author-content p { color: var(--text-dim); margin-bottom: 12px; line-height: 1.6; }
+.author-content ul { padding-left: 0; list-style: none; }
+.author-content li { padding: 6px 0 6px 22px; position: relative; font-size: 0.95em; color: var(--text-dim); line-height: 1.5; }
+.author-content li::before { content: ""; position: absolute; left: 0; top: 14px; width: 12px; height: 1px; background: var(--cyan); }
+.author-content li strong { color: var(--text); }
+.final-cta { text-align: center; padding: 90px 24px; background: var(--surface); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); position: relative; overflow: hidden; }
+.final-cta::before { content: ""; position: absolute; inset: 0; background: radial-gradient(ellipse at center, rgba(138,93,255,0.08), transparent 60%); pointer-events: none; }
+.final-cta h2 { font-size: clamp(1.9em, 4.2vw, 2.8em); margin: 0 auto 18px; max-width: 20ch; }
+.final-cta p { font-size: 1.1em; color: var(--text-dim); max-width: 620px; margin: 0 auto 30px; }
+.final-cta .ctas { justify-content: center; display: flex; gap: 12px; flex-wrap: wrap; }
+footer { padding: 60px 24px 30px 24px; background: var(--bg-2); border-top: 1px solid var(--border); font-size: 0.88em; color: var(--text-soft); }
+footer .footer-grid { display: grid; grid-template-columns: 1.4fr 1fr 1fr 1fr; gap: 32px; margin-bottom: 32px; max-width: 1180px; margin-left: auto; margin-right: auto; }
+@media (max-width: 800px) { footer .footer-grid { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 480px) { footer .footer-grid { grid-template-columns: 1fr; } }
+footer h5 { font-size: 0.76em; color: var(--text); text-transform: uppercase; letter-spacing: 0.12em; margin-bottom: 14px; font-weight: 700; }
+footer a { display: block; color: var(--text-dim); text-decoration: none; padding: 4px 0; font-size: 0.9em; transition: color var(--t-fast); }
+footer a:hover { color: var(--cyan); }
+footer .footer-about p { color: var(--text-soft); font-size: 0.86em; line-height: 1.55; margin-top: 8px; }
+footer .footer-bottom { border-top: 1px solid var(--border); padding-top: 22px; max-width: 1180px; margin: 0 auto; text-align: center; line-height: 1.7; font-size: 0.82em; }
+footer .footer-bottom .legal { color: var(--text-soft); margin-bottom: 10px; }
+footer .footer-bottom .legal a { display: inline; color: var(--text-dim); margin: 0 6px; }
+.reveal { opacity: 0; transform: translateY(20px); transition: opacity 700ms cubic-bezier(0.16,1,0.3,1), transform 700ms cubic-bezier(0.16,1,0.3,1); }
+.reveal.in { opacity: 1; transform: translateY(0); }
+@media (max-width: 700px) { nav.top .links a { font-size: 0.85em; padding: 6px 10px; } .hero { padding: 110px 20px 40px 20px; min-height: 82vh; } section { padding: 60px 20px; } .progression { padding: 24px; } }
+</style>
+</head>
+<body>
+<a href="#main" class="skip-link">Skip to main content</a>
+<div class="cosmos" aria-hidden="true"></div>
+<div class="spotlight" id="spotlight" aria-hidden="true"></div>
+<nav class="top" role="navigation" aria-label="Main">
+  <div class="inner">
+    <a class="logo" href="/"><span class="logo-mark" aria-hidden="true"></span><span class="logo-text">SYNMANITAI</span></a>
+    <div class="links">
+      <a class="link" href="#what">What is this?</a>
+      <a class="link" href="#concepts">Concepts</a>
+      <a class="link" href="#modes">Three modes</a>
+      <a class="link" href="#disciplines">Disciplines</a>
+      <a class="link" href="#path">The path</a>
+      <a class="link" href="#universe">Universe</a>
+      <a class="link" href="#author">Author</a>
+    </div>
+  </div>
+</nav>
+<main id="main" role="main">
+<section class="hero">
+  <div class="container">
+    <span class="badge"><span class="pulse"></span>Founding article · Living document · 2026</span>
+    <h1>A culture form for <span class="accent">thinking with language models</span></h1>
+    <p class="lead">Synmanitai names the practice of thinking <em>together</em> with a language model — and treats it the way other cultures treat chess, yoga, or the long-form essay: as a craft that can be trained, observed, refined, and shared. <strong>Open commons, provider-independent, co-authored with models.</strong></p>
+    <p class="lead-de"><em>Synmanitai benennt das gemeinsame Denken zwischen Menschen und Sprachmodellen — als Denksport, als Weg und als Forschungspraxis. Offen, anbieter-unabhängig, ko-verfasst mit Modellen. Teil des Manitai-Universums.</em></p>
+    <div class="ctas">
+      <a class="btn primary" href="#what">What is this, in plain words<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+      <a class="btn ghost" href="SYNMANITAI_GRUENDUNGSARTIKEL_v1.md"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="8" y1="13" x2="16" y2="13"/><line x1="8" y1="17" x2="16" y2="17"/></svg>Read the full founding article (DE)</a>
+    </div>
+  </div>
+</section>
+<section id="what">
+  <div class="container reveal">
+    <span class="eyebrow">In plain words · Klartext</span>
+    <h2>What is <span class="accent">Synmanitai</span>?</h2>
+    <p class="intro">A short answer in both languages. Skip to whichever side fits how you read.</p>
+    <div class="what-grid">
+      <div class="what-card">
+        <div class="lang">English</div>
+        <h3>Thinking <span class="em">with</span> a model is a skill of its own.</h3>
+        <p>A model is not the same thing as a dialogue — just as a racket is not the same thing as a match. The performance you get from a language model depends just as much on <strong>how you work with it</strong> as on which model you use. That craft has no shared culture yet.</p>
+        <p>Synmanitai proposes one: a culture form that is simultaneously a <strong>thinking sport</strong>, a <strong>way</strong>, and a <strong>research practice</strong>. Open, provider-independent, in the commons. Not a product. Not a course. Not owned by anyone.</p>
+      </div>
+      <div class="what-card">
+        <div class="lang">Deutsch</div>
+        <h3>Das Denken <span class="em">mit</span> einem Modell ist eine eigene Kunst.</h3>
+        <p>Ein Modell ist nicht dasselbe wie ein Dialog — so wenig wie ein Schläger dasselbe ist wie ein Match. Die Leistung, die aus einem Sprachmodell entsteht, hängt genauso davon ab, <strong>wie man mit ihm arbeitet</strong>, wie davon, welches Modell man benutzt. Für dieses Handwerk gibt es noch keine Kulturform.</p>
+        <p>Synmanitai schlägt eine vor: gleichzeitig <strong>Denksport</strong>, <strong>Weg</strong> und <strong>Forschungspraxis</strong>. Offen, anbieter-unabhängig, im Gemeingut. Kein Produkt. Kein Kurs. Niemand besitzt es.</p>
+      </div>
+    </div>
+    <div class="stats">
+      <div class="stat"><div class="num" data-target="3">0</div><div class="lbl">Modes in one form</div></div>
+      <div class="stat"><div class="num" data-target="9">0</div><div class="lbl">Metric families</div></div>
+      <div class="stat"><div class="num" data-target="10">0</div><div class="lbl">Starter disciplines</div></div>
+      <div class="stat"><div class="num" data-target="20">0</div><div class="lbl">Graduation steps</div></div>
+    </div>
+  </div>
+</section>
+<section id="concepts">
+  <div class="container reveal">
+    <span class="eyebrow">Founding article · core concepts</span>
+    <h2>The ideas that <span class="accent">make it Synmanitai</span></h2>
+    <p class="intro">Seven concepts from the founding article. They distinguish Synmanitai from prompt-engineering courses, from prompt-hack folklore, and from any single product.</p>
+    <div class="highlights">
+      <div class="h-card feat">
+        <span class="h-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v20M2 12h20M5 5l14 14M5 19 19 5"/></svg></span>
+        <h3>Bimetric: Symphronesis &amp; Autophronesis</h3>
+        <span class="greek">syn- · phronēsis — gr. with-mindfulness  /  auto- · phronēsis — gr. self-mindfulness</span>
+        <p>Every Synmanitai performance is measured along two axes at once: what the practitioner can do <strong>with</strong> a language model (Symphronesis) and what they can do <strong>without</strong> one (Autophronesis). Only the pair counts. Measuring only the first cultivates dependency and produces illusions of competence. Measuring only the second ignores the actually relevant capability of the present.</p>
+        <p>The bimetric is the methodological heart of the form — and has no direct equivalent in any older culture, because no older culture had this exact problem.</p>
+      </div>
+      <div class="h-card half">
+        <span class="h-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12h6l3-9 3 18 3-9h3"/></svg></span>
+        <h3>Semantic Ejection</h3>
+        <span class="greek">economical prompting · ökonomisches Prompten</span>
+        <p>The deliberate release of a meaning-space that one does <em>not</em> fully structure in advance, but lets take shape through feedback. The prompt is not refined into a sculpture before sending — it is set as a starting signal, and the form emerges in the series of answers and counter-answers. Treated as an equal partner to optimised prompting, the way improvised playing stands beside composed playing in music.</p>
+      </div>
+      <div class="h-card half">
+        <span class="h-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M9 9v6M15 9v6"/></svg></span>
+        <h3>Pause Power</h3>
+        <span class="greek">Mikro · Meso · Makro pauses</span>
+        <p>Pause is not absence of training. Pause is part of training. The micropause (5–30 s between reading and writing), the mesopause (minutes to hours), the macropause (days to weeks), the sleep-pause — each is a documented performance technique in sports science and cognitive neuroscience, and almost unknown in prompt practice. Synmanitai institutionalises it.</p>
+      </div>
+      <div class="h-card third">
+        <span class="h-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="7" r="3"/><circle cx="17" cy="7" r="3"/><path d="M3 21v-2a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v2M14 11h4a4 4 0 0 1 4 4v2"/></svg></span>
+        <h3>Co-Founding with Models</h3>
+        <span class="greek">cross-LLM · provider-independent</span>
+        <p>Synmanitai is openly co-founded with language models <em>as a class</em>, not with any single product. Three rules: transparency about model involvement, provider-independence, and no author-erasure — a human author always signs and is responsible.</p>
+      </div>
+      <div class="h-card third">
+        <span class="h-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg></span>
+        <h3>Nine Metric Families</h3>
+        <span class="greek">goodhart-robust by construction</span>
+        <p>Chronometric, cardinal, topographical, agonal, rating-systems, combinatorial steps, jury-evaluation, portfolio, narrative. No serious performance is captured by a single metric — the multi-family profile keeps any single optimisation from running away with the form.</p>
+      </div>
+      <div class="h-card third">
+        <span class="h-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 4h4l2 4-2 2a12 12 0 0 0 6 6l2-2 4 2v4a2 2 0 0 1-2 2A18 18 0 0 1 3 6a2 2 0 0 1 2-2"/></svg></span>
+        <h3>Counter-Metric Duty</h3>
+        <span class="greek">every main metric carries its counter</span>
+        <p>Every main metric in Synmanitai carries an obligatory counter-metric that punishes naive optimisation. Whoever minimises dialogue length must also reach length when the task demands depth. Whoever masters Semantic Ejection must also master optimised prompting. The doubling is not weakness; it is protection against one-sided cultivation.</p>
+      </div>
+      <div class="h-card half">
+        <span class="h-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19V6a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v13M2 19h20M9 9h6M9 13h6"/></svg></span>
+        <h3>Canon Binding</h3>
+        <span class="greek">paradigmatic dialogues · public archive</span>
+        <p>Jury evaluations in Synmanitai are bound to a Canon — a growing, public collection of paradigmatic dialogues against which quality judgements are exemplified. Without a canon, jury evaluation drifts into arbitrariness. With one, it becomes teachable. The canon itself is alive: extended each year, pruned of obsolete examples.</p>
+      </div>
+      <div class="h-card half">
+        <span class="h-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2 2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg></span>
+        <h3>In the Commons</h3>
+        <span class="greek">Gemeingut · not a brand-empire</span>
+        <p>Synmanitai is part of the open Manitai universe (AUGMANITAI, NEOMANITAI, PERMANITAI, ROBMANITAI, JOBMANITAI, EDUMANITAI) but no-one's possession. Schools may form within it — the way schools form within Aikidō — but no person, group or company can own the form itself. It is a commons, like chess, like football, like yoga.</p>
+      </div>
+    </div>
+  </div>
+</section>
+<section id="modes">
+  <div class="container reveal">
+    <span class="eyebrow">Threefold ontology</span>
+    <h2>Sport. Way. <span class="accent">Research practice.</span></h2>
+    <p class="intro">Synmanitai is simultaneously three things. Each mode without the others collapses. The combination is what gives the form its shape.</p>
+    <div class="triptych">
+      <div class="mode">
+        <div class="mode-eyebrow">First mode</div>
+        <h4>A thinking sport</h4>
+        <p>Like chess, Go, bridge or poker — an agonal practice with defined rules, formats, juries and (over time) tournaments and rankings. Individual disciplines run with model support (Symphronesis), solo disciplines run without (Autophronesis). As a sport, Synmanitai is media-compatible: it can be reported, watched, cheered.</p>
+      </div>
+      <div class="mode">
+        <div class="mode-eyebrow">Second mode</div>
+        <h4>A way</h4>
+        <p>Like Aikidō, Zen, or the European humanistic <em>cursus</em> — a practice whose aim is not victory over others but the cultivation of a stance in the self: clear seeing, precise formulation, honest listening (even to a machine), preservation of one's own autonomy in dialogue, resistance to the temptation of handing the thinking away. As a way, Synmanitai is lifelong. You don't finish. You mature.</p>
+      </div>
+      <div class="mode">
+        <div class="mode-eyebrow">Third mode</div>
+        <h4>A research practice</h4>
+        <p>Like Quantified Self or amateur-astronomy science — Synmanitai produces structured, reproducible, publicly accessible data about a phenomenon described so far only ad hoc: what actually happens when a human and a language model think together? As a research practice, Synmanitai is academically connectable. Results can be published. Methodology can be peer-reviewed. Terms can be standardised.</p>
+      </div>
+    </div>
+  </div>
+</section>
+<section id="disciplines">
+  <div class="container reveal">
+    <span class="eyebrow">Starter canon</span>
+    <h2>Ten <span class="accent">disciplines</span> to begin with</h2>
+    <p class="intro">Not a closed list — a starting canon. Each discipline has a ruleset, a typical time-frame, defined evaluation criteria, and a clear Symphronesis / Autophronesis component.</p>
+    <div class="disciplines">
+      <div class="disc"><div class="num">01</div><div class="body"><h5>Clarification</h5><p>An unsharp problem. In the shortest time, find the formulation that strikes the actual question precisely. Judged on the quality of the question, not the answer.</p></div></div>
+      <div class="disc"><div class="num">02</div><div class="body"><h5>Counter-argumentation</h5><p>A given thesis. Formulate the strongest arguments against it that you do not yourself hold. Judged steelman-style: is the counter caught in its strongest form?</p></div></div>
+      <div class="disc"><div class="num">03</div><div class="body"><h5>Term-work</h5><p>A phenomenon without an established term. Coin a workable term that captures it precisely and connects. Judged on sharpness, connectivity, memorability, translatability.</p></div></div>
+      <div class="disc"><div class="num">04</div><div class="body"><h5>Dialectic</h5><p>Human against human, each with their own model-support, on a given theme. Like a debating club, with explicit machine assistance. Who produces the clearer, stronger, methodologically cleaner contribution?</p></div></div>
+      <div class="disc"><div class="num">05</div><div class="body"><h5>Reconstruction</h5><p>A foreign text (philosophical, literary, scientific). Bring its inner structure out and re-present it in your own language. Judged on fidelity to the original and elegance of the new rendering.</p></div></div>
+      <div class="disc"><div class="num">06</div><div class="body"><h5>Prompt minimisation</h5><p>A target result. Reach it with the shortest possible prompt. Judged on prompt-length times result-quality. Makes economical prompting its own competition form.</p></div></div>
+      <div class="disc"><div class="num">07</div><div class="body"><h5>Pause-disciplined long task</h5><p>A multi-hour or multi-day task with mandatory pauses, which must be demonstrably used productively (documented return with new insight, not busy-work).</p></div></div>
+      <div class="disc"><div class="num">08</div><div class="body"><h5>Solo sparring</h5><p>Solve a defined task completely without a language model, in a fixed time-frame. Result compared with your own model-supported result. For calibration and for cultivation of autonomy.</p></div></div>
+      <div class="disc"><div class="num">09</div><div class="body"><h5>Long reconstruction</h5><p>Twelve months of documented progress on one complex problem. Evaluated as a complete portfolio. The portfolio discipline.</p></div></div>
+      <div class="disc"><div class="num">10</div><div class="body"><h5>Show-and-tell</h5><p>Public demonstration of a dialogue skill — live before an audience or on video, with commentary. Not agonal, but central to public reach.</p></div></div>
+    </div>
+  </div>
+</section>
+<section id="path">
+  <div class="container reveal">
+    <span class="eyebrow">Graduation</span>
+    <h2>The <span class="accent">way</span>, marked in steps</h2>
+    <p class="intro">Synmanitai borrows the Kyu / Dan grammar from Go and Japanese martial arts. Many short steps before mastery — fewer, slower, often lifelong steps after. No step is decided by algorithm; human judgement is itself part of the form.</p>
+    <div class="progression">
+      <div class="prog-bar" role="img" aria-label="Twenty-step progression: ten preparation steps, then Dan grades">
+        <div class="prog-seg kyu">10 Kyu-analog preparation steps</div>
+        <div class="prog-seg dan">Dan grades · lifelong</div>
+      </div>
+      <div class="prog-meta">
+        <div><strong>Preparation (Kyu-analog)</strong>From "knows the core terms and has done a first documented session" up to "passed examination tasks in all ten disciplines and can teach others."</div>
+        <div><strong>Master grades (Dan-analog)</strong>1st Dan: public teaching ability, own canon contribution. 2nd Dan: own methodological contribution. 3rd Dan: independent school inside Synmanitai. Higher grades: rare, by consensus of masters, not by exam.</div>
+        <div><strong>Principle</strong>Every step is bound to documentable criteria. None is assigned by automation. The authority of the master grades rests on this judgement being human.</div>
+      </div>
+    </div>
+  </div>
+</section>
+<section id="universe">
+  <div class="container reveal">
+    <span class="eyebrow">Manitai-Universe</span>
+    <h2>Synmanitai inside the <span class="accent">open research universe</span></h2>
+    <p class="intro">Synmanitai is one of several research strands sharing terminology and method. Each is independent. None is the centre. The whole is a commons, not a brand-empire.</p>
+    <div class="sisters">
+      <a class="sister" href="https://andreasehstandlicenseofclarityloc.github.io/augmanitai-portal/"><h4>AUGMANITAI</h4><div class="sister-sub">Terminology · main library</div><p>The descriptive vocabulary of human-AI interaction. Nine connected corpora, browsable five ways.</p><span class="arrow">Open the portal</span></a>
+      <a class="sister" href="https://andreasehstandlicenseofclarityloc.github.io/augmanitai-stage-0/"><h4>Master Compendium</h4><div class="sister-sub">Stage-0 · defined terms</div><p>The main library of named patterns. One page per term, plain bilingual descriptions.</p><span class="arrow">Browse terms</span></a>
+      <a class="sister" href="https://andreasehstandlicenseofclarityloc.github.io/neomanitai-terms/"><h4>NEOMANITAI</h4><div class="sister-sub">Pipeline · new terms</div><p>The discovery pipeline for new terms in the Manitai-line.</p><span class="arrow">See the pipeline</span></a>
+      <a class="sister" href="https://andreasehstandlicenseofclarityloc.github.io/permanitai-framework/"><h4>PERMANITAI</h4><div class="sister-sub">Performance factors</div><p>Performance-factor framework for human-AI interaction.</p><span class="arrow">Open framework</span></a>
+      <a class="sister" href="https://andreasehstandlicenseofclarityloc.github.io/augmanitai-periodic-table/"><h4>Periodic Table</h4><div class="sister-sub">Visual map</div><p>A periodic-table-style view of AUGMANITAI categories.</p><span class="arrow">View the table</span></a>
+      <a class="sister" href="https://andreasehstandlicenseofclarityloc.github.io/augmanitai-wow/"><h4>WOW Exhibit</h4><div class="sister-sub">Showcase</div><p>Selected highlights from the broader AUGMANITAI research.</p><span class="arrow">See exhibit</span></a>
+      <span class="sister self"><h4>SYNMANITAI</h4><div class="sister-sub">You are here</div><p>Culture form for thinking with language models. Sport · way · research.</p></span>
+    </div>
+  </div>
+</section>
+<section id="author">
+  <div class="container reveal">
+    <span class="eyebrow">Founding author</span>
+    <h2>Who <span class="accent">started</span> this</h2>
+    <div class="author-block">
+      <div class="author-portrait">
+        <div class="avatar"><div class="avatar-inner">AE</div></div>
+        <h3>Andreas Ehstand</h3>
+        <div class="role">AI Researcher</div>
+      </div>
+      <div class="author-content">
+        <h3>The text-writer behind the form</h3>
+        <p>Andreas Ehstand is the founding author of the Synmanitai article and the broader AUGMANITAI research programme — a descriptive terminology of human-AI interaction co-developed with language models, cross-provider, in the commons.</p>
+        <h3>Two relevant working backgrounds</h3>
+        <ul>
+          <li><strong>Performance practice.</strong> Years of work as a coach in international tennis and the German Bundesliga — the source of Synmanitai's instinct that performance is a function of system, environment and interaction, never of the system alone.</li>
+          <li><strong>Terminological research.</strong> The AUGMANITAI corpus and its sister projects, developed openly with multiple language models, give Synmanitai its bilingual descriptive vocabulary and its methodological habit of writing each pattern from observation rather than prescription.</li>
+        </ul>
+        <h3>Position on this text</h3>
+        <p>The author signs as a private researcher. Synmanitai is offered as a proposal, not a decree — what becomes of it depends on those who practise it. The founding text is fixed; the form around it is open for development. The author owns no part of Synmanitai. The single trademark involved is <em>License of Clarity</em> (LOC), used as a citation and attribution instrument across the wider research programme — not as a claim on the culture form itself.</p>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="final-cta">
+  <div class="container">
+    <h2>An invitation, not a decree.</h2>
+    <p>Synmanitai will not emerge from a single founder, but from those who practise it. The founding article fixes a minimum. Everything else is open for the people who fill it.</p>
+    <div class="ctas">
+      <a class="btn primary" href="SYNMANITAI_GRUENDUNGSARTIKEL_v1.md">Read the founding article<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+      <a class="btn ghost" href="https://orcid.org/0009-0006-3773-7796"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M8 12h8M12 8v8"/></svg>Contact the author via ORCID</a>
+    </div>
+  </div>
+</div>
+</main>
+<footer>
+  <div class="footer-grid">
+    <div class="footer-about">
+      <h5>Synmanitai</h5>
+      <a href="SYNMANITAI_GRUENDUNGSARTIKEL_v1.md">Founding article (DE)</a>
+      <a href="README.md">Repository readme</a>
+      <p>A culture form for thinking together with language models. Open commons, provider-independent, co-authored with models. Part of the Manitai universe.</p>
+    </div>
+    <div>
+      <h5>Universe</h5>
+      <a href="https://andreasehstandlicenseofclarityloc.github.io/augmanitai-portal/">AUGMANITAI portal</a>
+      <a href="https://andreasehstandlicenseofclarityloc.github.io/augmanitai-stage-0/">Master Compendium</a>
+      <a href="https://andreasehstandlicenseofclarityloc.github.io/neomanitai-terms/">NEOMANITAI terms</a>
+      <a href="https://andreasehstandlicenseofclarityloc.github.io/permanitai-framework/">PERMANITAI framework</a>
+      <a href="https://andreasehstandlicenseofclarityloc.github.io/augmanitai-periodic-table/">Periodic table</a>
+    </div>
+    <div>
+      <h5>Legal</h5>
+      <a href="IMPRESSUM.md">Impressum (§5 DDG)</a>
+      <a href="DATENSCHUTZ.md">Datenschutz / Privacy</a>
+      <a href="DISCLAIMER.md">Disclaimer (§1 to §29)</a>
+      <a href="https://andreasehstandlicenseofclarityloc.github.io/augmanitai-stage-0/disclaimer.html">Central disclaimer (EN+DE)</a>
+      <a href="LICENSE">License (CC BY-NC-ND 4.0)</a>
+    </div>
+    <div>
+      <h5>Author</h5>
+      <a href="https://orcid.org/0009-0006-3773-7796">ORCID</a>
+      <a href="https://www.wikidata.org/wiki/Q138634675">Wikidata</a>
+      <a href="https://github.com/AndreasEhstandLicenseofClarityLOC/synmanitai">Repository on GitHub</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="legal">Responsible for content under <strong>§5 DDG</strong> and <strong>§18 (2) MStV</strong>: Andreas Ehstand, Nepomukweg 7, 82319 Starnberg, Germany · augmanitai [at] gmail [dot] com</div>
+    <div>© 2026 Andreas Ehstand · Content licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" style="display:inline;color:var(--text-dim)">CC BY-NC-ND 4.0</a> · Living document · Private research publication, no commercial activity</div>
+  </div>
+</footer>
+<script>
+(function(){
+  var el = document.getElementById("spotlight");
+  if (!el || window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  window.addEventListener("mousemove", function(e){
+    el.style.setProperty("--mx", e.clientX + "px");
+    el.style.setProperty("--my", e.clientY + "px");
+  }, { passive: true });
+})();
+(function(){
+  var els = document.querySelectorAll(".reveal");
+  if (!("IntersectionObserver" in window)) { els.forEach(function(e){ e.classList.add("in"); }); return; }
+  var io = new IntersectionObserver(function(entries){
+    entries.forEach(function(en){ if (en.isIntersecting) { en.target.classList.add("in"); io.unobserve(en.target); } });
+  }, { threshold: 0.12 });
+  els.forEach(function(e){ io.observe(e); });
+})();
+(function(){
+  var nodes = document.querySelectorAll(".stat .num[data-target]");
+  if (!nodes.length) return;
+  function animate(node){
+    var target = parseInt(node.getAttribute("data-target"), 10) || 0;
+    var duration = 1200, start = performance.now();
+    function tick(now){
+      var p = Math.min(1, (now - start) / duration);
+      var eased = 1 - Math.pow(1 - p, 3);
+      node.textContent = Math.round(eased * target).toString();
+      if (p < 1) requestAnimationFrame(tick); else node.textContent = target.toString();
+    }
+    requestAnimationFrame(tick);
+  }
+  if (!("IntersectionObserver" in window)) { nodes.forEach(animate); return; }
+  var io = new IntersectionObserver(function(entries){
+    entries.forEach(function(en){ if (en.isIntersecting) { animate(en.target); io.unobserve(en.target); } });
+  }, { threshold: 0.4 });
+  nodes.forEach(function(n){ io.observe(n); });
+})();
+</script>
+</body>
+</html>
