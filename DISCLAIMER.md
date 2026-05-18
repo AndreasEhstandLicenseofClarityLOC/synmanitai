@@ -1,8 +1,8 @@
-# AUGMANITAI / NEOMANITAI ETHICAL DISCLAIMER §1–§26
+# AUGMANITAI / NEOMANITAI ETHICAL DISCLAIMER §1–§26 (V4.0)
 # GILT FÜR ALLES / APPLIES TO EVERYTHING
 
-**Version:** 3.0  
-**Datum / Date:** 2026-04-17  
+**Version:** 4.0  
+**Datum / Date:** 2026-05-18  
 **Lizenz / License:** CC BY-NC-ND 4.0 International  
 **Informiert durch / Informed by:** ISO 704, ISO 1087, ISO 30042  
 **Autor / Author:** Andreas Ehstand · ORCID 0009-0006-3773-7796  

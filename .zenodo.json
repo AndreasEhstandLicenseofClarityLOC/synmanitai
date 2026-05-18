@@ -1,7 +1,7 @@
 {
-  "title": "Synmanitai: A Cultural Form for Human-LLM Co-Thinking — Founding Article",
+  "title": "Synmanitai: A Cultural Form for Human-LLM Co-Thinking — Founding Essay",
   "upload_type": "publication",
-  "description": "Synonym, near-synonym, and cross-domain mapping layer connecting AUGMANITAI terms to adjacent fields (cognitive science, robotics, performance analysis).",
+  "description": "Founding essay on collaborative thinking between humans and language models. Methodological grammar for the AUGMANITAI research programme. Describes the principles of structured human-LLM co-investigation as a cultural and epistemic practice.",
   "creators": [
     {
       "name": "Ehstand, Andreas",
@@ -14,11 +14,12 @@
   "license": "CC-BY-NC-ND-4.0",
   "keywords": [
     "AUGMANITAI",
-    "synonyms",
-    "cross-domain mapping",
-    "thesaurus",
-    "SKOS",
-    "terminology alignment"
+    "human-LLM collaboration",
+    "co-thinking",
+    "methodological essay",
+    "human-AI interaction",
+    "phenomenology",
+    "collaborative cognition"
   ],
   "communities": [],
   "related_identifiers": [
