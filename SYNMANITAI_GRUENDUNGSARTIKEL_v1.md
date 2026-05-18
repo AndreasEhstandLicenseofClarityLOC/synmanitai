@@ -5,7 +5,7 @@
 ---
 
 **Status:** Gründungsartikel, Version 1.0
-**Sprache:** Deutsch (englische Übersetzung folgt binnen 48 Stunden)
+**Sprache:** Deutsch
 **Lizenz:** CC BY-NC-ND 4.0 International
 **Ort im Universum:** Synmanitai ist Teil des Manitai-Universe neben AUGMANITAI (Terminologie), NEOMANITAI (Pipeline), PERMANITAI (Performance), ROBMANITAI (Robotik), JOBMANITAI (Arbeit), EDUMANITAI (Bildung). Das Manitai-Universe ist kein Markenimperium, sondern ein offenes Forschungsuniversum. Marke ist allein *License of Clarity* (LOC) als Lizenz- und Attributionsinstrument.
 **Ko-Autorenschaft:** Dieser Text ist in bewusster Kollaboration mit mehreren Sprachmodellen entstanden, anbieter-unabhängig. Dies ist keine Nebenbemerkung, sondern ein konstituierendes Prinzip der hier gegründeten Kulturform. Mehr dazu in Abschnitt 7.
@@ -479,7 +479,7 @@ Dieser Text erscheint am **19. April 2026** parallel auf mehreren Kanälen.
 
 **Medium:** Öffentliche Langform, Leseerfahrung.
 **Substack / LinkedIn / Reddit / GitHub / Wikidata / ORCID:** Strukturpräsenz, Knowledge-Graph-Signal.
-**Englische Übersetzung:** binnen 48 Stunden.
+**Englische Übersetzung:** in Vorbereitung.
 
 Der Text ist CC BY-NC-ND 4.0 lizenziert: weitergeben ja, verändern nein, kommerziell nutzen nur mit Zustimmung. Das ist die *Gründungsversion*. Folgeversionen werden die Unveränderlichkeit lockern, sobald die Methodik ausgereift ist und die Community den Text weiterschreiben soll.
 
