@@ -1,18 +1,25 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
-title: "SYNMANITAI — Kulturform für gemeinsames Denken zwischen Menschen und Sprachmodellen"
+title: "SYNMANITAI — A Cultural Form for Human-LLM Co-Thinking (Founding Essay)"
 authors:
   - family-names: Ehstand
     given-names: Andreas
     orcid: https://orcid.org/0009-0006-3773-7796
-abstract: "A cultural form for collaborative thinking between human researchers and language models, part of the AUGMANITAI ecosystem."
+    affiliation: Augmanitai Research Programme
+abstract: "A cultural form for collaborative thinking between human researchers and language models. Descriptive, methodological grammar; part of the Augmanitai research programme."
 version: "1.0.0"
 date-released: 2026-05-15
 license: CC-BY-NC-ND-4.0
+doi: 10.5281/zenodo.20161494
 url: "https://andreasehstandlicenseofclarityloc.github.io/synmanitai/"
 repository-code: "https://github.com/AndreasEhstandLicenseofClarityLOC/synmanitai"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20161494
+    description: "Canonical evergreen Concept-DOI of the Augmanitai Research Programme (cite this)."
 keywords:
   - Human-AI Interaction
   - Phenomenology
-  - AUGMANITAI
+  - Augmanitai
   - Terminology Science
+  - Co-Thinking
