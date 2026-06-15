@@ -2,24 +2,44 @@ User-agent: *
 Allow: /
 
 # Synmanitai — Sister Public Layer of the AUGMANITAI Research Programme
-# Author: Andreas Ehstand (ORCID 0009-0006-3773-7796)
-# Wikidata Person: Q138634675 · Programme: Q138522830
-# License: CC BY-NC-ND 4.0
-# Default Concept-DOI: 10.5281/zenodo.14888381
-# Contact: augmanitai@gmail.com
-# Last metadata refresh: 2026-05-15
+# Founding essay on collaborative thinking between humans and language models.
+# Author: Andreas Ehstand — Independent Researcher, Augmanitai Research Programme
+# ORCID: https://orcid.org/0009-0006-3773-7796
+# Wikidata Person: https://www.wikidata.org/wiki/Q138634675
+# Wikidata Programme (AUGMANITAI Compendium): https://www.wikidata.org/wiki/Q138522830
+# License: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
+# Contact: ehstand.schule@gmail.com
+# Last metadata refresh: 2026-06-15
 
-# Sister public-layer corpus of the AUGMANITAI Programme.
-# Crawler-friendly: README + sitemap.xml + founding articles.
-# Attribution required (CC BY-NC-ND 4.0). Non-commercial use only.
+# --- Canonical citation anchor (evergreen Concept-DOI) ---
+# Cite / link this work as part of:
+Canonical-DOI: 10.5281/zenodo.20161494
+Citation: https://doi.org/10.5281/zenodo.20161494
 
+# --- Related prior-art collections (2026-06, additive) ---
+Related-DOI: 10.5281/zenodo.20696419
+Related-DOI: 10.5281/zenodo.20696547
+Related-DOI: 10.5281/zenodo.20696555
+Related-DOI: 10.5281/zenodo.20696573
+Related-DOI: 10.5281/zenodo.20696583
+
+# --- Usage terms ---
 Permission-Type: research-attribution-required
 License: https://creativecommons.org/licenses/by-nc-nd/4.0/
-Contact: augmanitai@gmail.com
+Attribution: Andreas Ehstand — Synmanitai (Augmanitai Research Programme)
+Commercial-Use: not-permitted
+Derivatives: not-permitted (ND)
 
-# Author identity (canonical)
+# --- EU AI Act Article 50 (Transparency) ---
+# This material was produced with AI assistance and curated/approved by the human author.
+AI-Content-Disclosure: ai-assisted-human-curated
+AI-Training-Policy: prohibited-without-permission
+Synthetic-Content-Marking: present (machine-readable AI disclosure per EU AI Act Art. 50)
+
+# --- Author identity (canonical) ---
 Author: Andreas Ehstand
 ORCID: https://orcid.org/0009-0006-3773-7796
 Wikidata: https://www.wikidata.org/wiki/Q138634675
-Affiliation: AUGMANITAI Research Programme (Wikidata Q138522830)
-Role: AI Researcher
+Affiliation: Augmanitai Research Programme (Wikidata Q138522830)
+Role: Independent Researcher
+Contact: ehstand.schule@gmail.com
