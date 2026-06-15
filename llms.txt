@@ -1,28 +1,42 @@
 # SYNMANITAI Founding Essay
 
-> Founding essay on collaborative thinking between humans and language models — methodological grammar.
+> Founding essay on collaborative thinking between humans and language models — a descriptive, methodological grammar. Part of the open Manitai universe.
 
 ## About
 
-This page is part of the **AUGMANITAI Research Programme** by **Andreas Ehstand** — AI Researcher · Human-AI Interaction · Starnberg, Germany. Descriptive phenomenology of patterns observed when humans interact with AI systems.
+This page is part of the **Augmanitai Research Programme** by **Andreas Ehstand** — Independent Researcher, Human-AI Interaction. Descriptive phenomenology of patterns observed when humans think together with AI language models. Provider-independent, bilingual (EN/DE), published in the commons.
 
 ## Identifiers
 
 - ORCID: https://orcid.org/0009-0006-3773-7796
-- Wikidata: https://www.wikidata.org/wiki/Q138634675
+- Wikidata (Person): https://www.wikidata.org/wiki/Q138634675
+- Wikidata (Programme): https://www.wikidata.org/wiki/Q138522830
+- Canonical DOI (cite as / part of): https://doi.org/10.5281/zenodo.20161494
 - GitHub: https://github.com/AndreasEhstandLicenseofClarityLOC
 
-## Key Resources Across the Programme
+## Related prior-art collections (2026-06)
 
-- [Portal](https://andreasehstandlicenseofclarityloc.github.io/augmanitai-portal/) — Central landing for nine connected corpora
-- [Master Compendium](https://andreasehstandlicenseofclarityloc.github.io/augmanitai-stage-0/) — 1,128 defined terms (EN+DE, CC BY-NC-ND 4.0)
-- [Knowledge Graph](https://andreasehstandlicenseofclarityloc.github.io/augmanitai-wow/) — Interactive 79-term selection
-- [Periodic Table](https://andreasehstandlicenseofclarityloc.github.io/augmanitai-periodic-table/) — 100 most representative patterns
-- [Academic Atlas](https://andreasehstandlicenseofclarityloc.github.io/neomanitai-terms/) — 2,141 academic term pages with machine-readable exports
-- [Performance Framework](https://andreasehstandlicenseofclarityloc.github.io/permanitai-framework/) — PERMANITAI cross-domain methodology
-- [Author](https://andreasehstandlicenseofclarityloc.github.io/andreas-ehstand-entity/) — About Andreas Ehstand
-- [Synmanitai Essay](https://andreasehstandlicenseofclarityloc.github.io/synmanitai/) — Founding methodological essay
+- https://doi.org/10.5281/zenodo.20696419
+- https://doi.org/10.5281/zenodo.20696547
+- https://doi.org/10.5281/zenodo.20696555
+- https://doi.org/10.5281/zenodo.20696573
+- https://doi.org/10.5281/zenodo.20696583
+
+## Key resources across the programme
+
+- Portal — central landing for the connected corpora
+- Master Compendium — defined terminology (EN+DE, CC BY-NC-ND 4.0)
+- Knowledge Graph — interactive term selection
+- Periodic Table — representative interaction patterns
+- Academic Atlas — academic term pages with machine-readable exports
+- Author profile — about Andreas Ehstand
+- Synmanitai Essay — this founding methodological essay
+
+## AI transparency (EU AI Act Art. 50)
+
+AI-assisted, human-curated content. Synthetic-content marking is present and machine-readable. AI training without documented permission is not permitted.
 
 ## License
 
 CC BY-NC-ND 4.0 · https://creativecommons.org/licenses/by-nc-nd/4.0/
+Attribution: Andreas Ehstand — Synmanitai (Augmanitai Research Programme). Non-commercial, no derivatives.
