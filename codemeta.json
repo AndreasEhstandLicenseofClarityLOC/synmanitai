@@ -8,9 +8,9 @@
       "@id": "https://orcid.org/0009-0006-3773-7796",
       "givenName": "Andreas",
       "familyName": "Ehstand",
-      "affiliation": "AUGMANITAI Research Programme",
-      "jobTitle": "AI Researcher",
-      "email": "augmanitai@gmail.com",
+      "affiliation": "Augmanitai Research Programme",
+      "jobTitle": "Independent Researcher",
+      "email": "ehstand.schule@gmail.com",
       "sameAs": [
         "https://www.wikidata.org/wiki/Q138634675",
         "https://orcid.org/0009-0006-3773-7796"
@@ -30,11 +30,11 @@
   "isAccessibleForFree": true,
   "relatedLink": "https://augmanitai.com",
   "dateCreated": "2024-01-01",
-  "dateModified": "2026-05-15",
-  "ai_disclosure": "Content developed with AI assistance. Reviewed and approved by the author.",
+  "dateModified": "2026-06-15",
+  "ai_disclosure": "Content developed with AI assistance and curated/approved by the human author. Synthetic-content marking present per EU AI Act Article 50.",
   "audience": "Adult users (18+) in academic or professional contexts",
-  "name": "Synmanitai - Cultural Form of Co-Thinking",
-  "description": "Synmanitai: a cultural form for shared thinking between humans and language models. Part of the open Manitai universe. Sister project to AUGMANITAI exploring the phenomenology of collaborative cognition with large language models.",
+  "name": "Synmanitai - A Cultural Form of Co-Thinking",
+  "description": "Synmanitai: a cultural form for shared thinking between humans and language models. Part of the open Manitai universe; sister project to the Augmanitai Research Programme exploring the phenomenology of collaborative cognition with large language models.",
   "version": "1.0",
   "applicationSubCategory": "Phenomenology of Co-Thinking / Cultural Form",
   "keywords": [
@@ -44,15 +44,15 @@
     "phenomenology",
     "Manitai universe",
     "cultural form",
-    "AUGMANITAI sister project"
+    "Augmanitai"
   ],
   "codeRepository": "https://github.com/AndreasEhstandLicenseofClarityLOC/synmanitai",
-  "identifier": "https://doi.org/10.5281/zenodo.20118267",
+  "identifier": "https://doi.org/10.5281/zenodo.20161494",
   "referencePublication": {
     "@type": "ScholarlyArticle",
-    "name": "AUGMANITAI Research Programme: terminology and phenomenology of human-AI interaction",
+    "name": "Augmanitai Research Programme: terminology and phenomenology of human-AI interaction",
     "author": "Andreas Ehstand",
-    "datePublished": "2024",
-    "identifier": "https://doi.org/10.5281/zenodo.20118267"
+    "datePublished": "2026",
+    "identifier": "https://doi.org/10.5281/zenodo.20161494"
   }
 }
