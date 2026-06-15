@@ -1,19 +1,20 @@
 {
   "title": "Synmanitai: A Cultural Form for Human-LLM Co-Thinking — Founding Essay",
   "upload_type": "publication",
-  "description": "Founding essay on collaborative thinking between humans and language models. Methodological grammar for the AUGMANITAI research programme. Describes the principles of structured human-LLM co-investigation as a cultural and epistemic practice.",
+  "publication_type": "workingpaper",
+  "description": "Founding essay on collaborative thinking between humans and language models. A descriptive, methodological grammar for the Augmanitai research programme; describes the principles of structured human-LLM co-investigation as a cultural and epistemic practice. Content is AI-assisted and human-curated (synthetic-content marking present per EU AI Act Article 50).",
   "creators": [
     {
       "name": "Ehstand, Andreas",
-      "affiliation": "AUGMANITAI Research Programme",
+      "affiliation": "Augmanitai Research Programme",
       "orcid": "0009-0006-3773-7796"
     }
   ],
   "access_right": "restricted",
-  "access_conditions": "Access restricted. Contact author via ORCID record (0009-0006-3773-7796) with documented research purpose.",
+  "access_conditions": "Access restricted. Contact the author via the ORCID record (0009-0006-3773-7796) with a documented research purpose.",
   "license": "CC-BY-NC-ND-4.0",
   "keywords": [
-    "AUGMANITAI",
+    "Augmanitai",
     "human-LLM collaboration",
     "co-thinking",
     "methodological essay",
@@ -25,6 +26,11 @@
   "related_identifiers": [
     {
       "relation": "isPartOf",
+      "scheme": "doi",
+      "identifier": "10.5281/zenodo.20161494"
+    },
+    {
+      "relation": "isPartOf",
       "scheme": "url",
       "identifier": "https://www.wikidata.org/wiki/Q138522830"
     },
@@ -32,13 +38,7 @@
       "relation": "isDescribedBy",
       "scheme": "url",
       "identifier": "https://augmanitai.com"
-    },
-    {
-      "relation": "isVersionOf",
-      "scheme": "doi",
-      "identifier": "10.5281/zenodo.14888381"
     }
   ],
-  "notes": "This .zenodo.json provides machine-readable metadata for crawlers (Software Heritage, OpenAIRE, DataCite). The GitHub-Zenodo auto-DOI integration is intentionally NOT enabled by the author; all canonical Zenodo records remain restricted-access. Contact author via ORCID for documented research access.",
-  "publication_type": "workingpaper"
+  "notes": "This .zenodo.json provides machine-readable metadata for crawlers (Software Heritage, OpenAIRE, DataCite). The GitHub-Zenodo auto-DOI integration is intentionally NOT enabled by the author; canonical Zenodo records remain restricted-access. Contact the author via ORCID for documented research access."
 }
