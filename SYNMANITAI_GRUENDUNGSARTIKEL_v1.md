@@ -588,7 +588,7 @@ Er enthält: genug, um anzufangen.
 
 **§18 No Commercial Product:** The AUGMANITAI framework is not a commercial product. It is not software, not a platform, not a tool, not an application, and not a service for sale. It is a published academic research framework made available under a Creative Commons license for research and educational purposes.
 
-**§19 Empirical Claims Subject to Peer Review:** All empirical claims, research hypotheses, observed patterns, and proposed frameworks within this project represent the current state of the author's research. They are formulated as testable, falsifiable propositions subject to peer review, replication, revision, and potential refutation through further empirical investigation. No claim of absolute truth, completeness, or finality is made.
+**§19 Empirical Claims Subject to Peer Review:** All empirical claims, research hypotheses, observed patterns, and proposed frameworks within this project represent the current state of the author's research. They are formulated as testable, falsifiable propositions not peer-reviewed (author-developed), replication, revision, and potential refutation through further empirical investigation. No claim of absolute truth, completeness, or finality is made.
 
 **§20 Rights Reserved for Future Changes:** The author reserves all rights regarding future modifications, updates, extensions, corrections, retractions, versioning, or discontinuation of any content within this framework. Published versions remain accessible through their respective archives, but the author is not bound to maintain any specific version or content in perpetuity.
 

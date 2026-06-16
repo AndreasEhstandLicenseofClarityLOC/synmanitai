@@ -107,7 +107,7 @@
 
 **§18 No Commercial Product.** The Neomanitai framework is not a commercial product. Not software for sale, not a platform, not a tool, not an application, and not a service for sale. Published academic research framework under Creative Commons license.
 
-**§19 Empirical Claims Subject to Peer Review.** All empirical claims, research hypotheses, and proposed frameworks represent the current state of research. They are formulated as testable, falsifiable propositions subject to peer review, replication, revision, and potential refutation. No claim of absolute truth, completeness, or finality.
+**§19 Empirical Claims Subject to Peer Review.** All empirical claims, research hypotheses, and proposed frameworks represent the current state of research. They are formulated as testable, falsifiable propositions not peer-reviewed (author-developed), replication, revision, and potential refutation. No claim of absolute truth, completeness, or finality.
 
 **§20 Rights Reserved for Future Changes.** The author reserves all rights regarding future modifications, updates, extensions, corrections, retractions, versioning, or discontinuation. This collection is a living research resource and will be continuously expanded. Published versions remain accessible under their respective references.
 
